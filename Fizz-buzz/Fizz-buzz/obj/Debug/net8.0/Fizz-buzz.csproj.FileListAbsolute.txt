@@ -1,0 +1,14 @@
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/bin/Debug/net8.0/Fizz-buzz
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/bin/Debug/net8.0/Fizz-buzz.deps.json
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/bin/Debug/net8.0/Fizz-buzz.runtimeconfig.json
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/bin/Debug/net8.0/Fizz-buzz.dll
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/bin/Debug/net8.0/Fizz-buzz.pdb
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/obj/Debug/net8.0/Fizz-buzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/obj/Debug/net8.0/Fizz-buzz.AssemblyInfoInputs.cache
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/obj/Debug/net8.0/Fizz-buzz.AssemblyInfo.cs
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/obj/Debug/net8.0/Fizz-buzz.csproj.CoreCompileInputs.cache
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/obj/Debug/net8.0/Fizz-buzz.dll
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/obj/Debug/net8.0/refint/Fizz-buzz.dll
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/obj/Debug/net8.0/Fizz-buzz.pdb
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/obj/Debug/net8.0/Fizz-buzz.genruntimeconfig.cache
+/Users/damianodelbello/Documents/Corsi/C# FreeCodeCamp/Fizz-buzz/Fizz-buzz/obj/Debug/net8.0/ref/Fizz-buzz.dll
