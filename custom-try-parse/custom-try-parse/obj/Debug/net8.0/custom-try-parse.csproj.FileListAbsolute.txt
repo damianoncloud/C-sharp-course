@@ -1,0 +1,15 @@
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/bin/Debug/net8.0/custom-try-parse
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/bin/Debug/net8.0/custom-try-parse.deps.json
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/bin/Debug/net8.0/custom-try-parse.runtimeconfig.json
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/bin/Debug/net8.0/custom-try-parse.dll
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/bin/Debug/net8.0/custom-try-parse.pdb
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/obj/Debug/net8.0/custom-try-parse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/obj/Debug/net8.0/custom-try-parse.AssemblyInfoInputs.cache
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/obj/Debug/net8.0/custom-try-parse.AssemblyInfo.cs
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/obj/Debug/net8.0/custom-try-parse.csproj.CoreCompileInputs.cache
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/obj/Debug/net8.0/custom-try-parse.sourcelink.json
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/obj/Debug/net8.0/custom-try-parse.dll
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/obj/Debug/net8.0/refint/custom-try-parse.dll
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/obj/Debug/net8.0/custom-try-parse.pdb
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/obj/Debug/net8.0/custom-try-parse.genruntimeconfig.cache
+/Users/damianodelbello/Documents/Corsi/C#FreeCodeCamp/custom-try-parse/custom-try-parse/obj/Debug/net8.0/ref/custom-try-parse.dll
